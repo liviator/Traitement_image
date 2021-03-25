@@ -1,0 +1,7 @@
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\bin\Debug\projet info S4.exe.config
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\bin\Debug\projet info S4.exe
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\bin\Debug\projet info S4.pdb
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\obj\Debug\projet info S4.csprojResolveAssemblyReference.cache
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\obj\Debug\projet info S4.csproj.CoreCompileInputs.cache
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\obj\Debug\projet info S4.exe
+C:\Users\Faure-Geors H\source\repos\projet info S4\projet info S4\obj\Debug\projet info S4.pdb
